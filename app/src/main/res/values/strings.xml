@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CP_Caluculator</string>
+    <string name="hello_world">Hello World</string>
+    <string name="enter_number_a">Enter number A</string>
+    <string name="enter_number_b">Enter number B</string>
+    <string name="textview">TextView</string>
+    <string name="calculatorimage">calculatorimage</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="division">/</string>
+    <string name="modular">%</string>
+    <string name="ab">a<sup>b</sup></string>
+    <string name="gcd">gcd</string>
+    <string name="lcm">lcm</string>
+    <string name="modinv">modinv</string>
+</resources>
