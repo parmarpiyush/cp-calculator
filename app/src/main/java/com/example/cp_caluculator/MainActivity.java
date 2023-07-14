@@ -13,6 +13,8 @@ import org.w3c.dom.Text;
 import java.math.BigInteger;
 
 
+
+
 public class MainActivity extends AppCompatActivity {
     TextView ans;
     EditText num1,num2;
@@ -41,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 String fi = num1.getText().toString();
                 String se = num2.getText().toString();
                 String last;
+
                 if(fi.equals("") || se.equals("")){
                     ans.setText("put values");
                 }
@@ -274,5 +277,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
+
+
     }
 }
